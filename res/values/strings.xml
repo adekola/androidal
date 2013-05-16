@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stay In Tosh</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Here are the numerbs you have called recently</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">View Logs</string>
+    <string name="title_activity_display_message">Call Logs</string>
+    <string name="label_text">Click button to view call logs</string>
+	<string name="button_view_contacts">View Contacts</string>
+	<string name="view_contacts">Click button above to view contacts</string>
+</resources>
